@@ -5,6 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/unclecarlos/bartender)
 ![pr](https://img.shields.io/badge/PRs-welcome-success)
 ![GitHub](https://img.shields.io/github/license/UncleCarlos/bartender)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FUncleCarlos%2Fbartender.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FUncleCarlos%2Fbartender?ref=badge_shield)
 
 [![Vue](https://img.shields.io/github/package-json/dependency-version/unclecarlos/bartender/vue?color=41B883&label=Vue&logo=vue.js)](https://github.com/vuejs/vue-next)
 [![electron](https://img.shields.io/github/package-json/dependency-version/unclecarlos/bartender/dev/electron?color=%239feaf9&label=Electron&logo=electron&logoColor=%239feaf9)](https://github.com/electron/electron)
@@ -62,3 +63,6 @@ $ npm run dev
 
 ![GitHub](https://img.shields.io/github/license/unclecarlos/bartender)
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FUncleCarlos%2Fbartender.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FUncleCarlos%2Fbartender?ref=badge_large)
